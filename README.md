@@ -1,7 +1,7 @@
 # @wijayantoap/tiny
 
 [![npm (scoped)](https://img.shields.io/github/issues/wijayantoap/tiny.svg)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@wijayantoap/tiny)
+[![npm bundle size (minified)](https://img.shields.io/github/license/wijayantoap/tiny.svg)](https://www.npmjs.com/package/@wijayantoap/tiny)
 
 Removes all spaces from a string.
 
